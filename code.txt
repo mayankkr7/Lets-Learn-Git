@@ -1,1 +1,3 @@
-Lets learn Git
+Lets learn Git.
+
+Progressing...
